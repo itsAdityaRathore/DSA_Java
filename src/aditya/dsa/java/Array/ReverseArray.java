@@ -1,6 +1,6 @@
 package aditya.dsa.java.Array;
 
-public class ReverseArrayNormal {
+public class ReverseArray {
 
     public static void main(String[] args) {
 	// write your code here
